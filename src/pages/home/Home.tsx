@@ -20,9 +20,9 @@ function Home() {
 
                     <div className="flex justify-center ">
                         <img
-                            src="https://i.imgur.com/fyfri1v.png"
+                            src="https://cdn.discordapp.com/attachments/1133193148164743220/1176863166362296371/Como-aumentar-vendas-na-farmacia-Hilab.jpg?ex=65706a3b&is=655df53b&hm=84fb071ac0a149b8bf4b025f5a5fdb0944fc4514f21ea8e20ecb4f7024642fb0&"
                             alt="Imagem Página Home"
-                            className='w-2/3'
+                            className='w-full'
                         />
                     </div>
                 </div>
