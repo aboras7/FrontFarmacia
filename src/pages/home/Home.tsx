@@ -1,3 +1,5 @@
+import ModalProduto from "../../components/produtos/modalProduto/ModalProduto"
+
 function Home() {
     return (
         <>
@@ -13,7 +15,7 @@ function Home() {
 
                         <div className="flex justify-around gap-4">
                             <div className='rounded text-white border-white border-solid border-2 py-2 px-4'>
-                                Novo produto
+                                <ModalProduto />
                             </div>
                         </div>
                     </div>
