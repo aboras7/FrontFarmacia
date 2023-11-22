@@ -1,4 +1,4 @@
-import Tema from './Categoria';
+import Categoria from './Categoria';
 import Usuario from './Usuario';
 
 export default interface Produto {
@@ -6,6 +6,6 @@ export default interface Produto {
   titulo: string;
   texto: string;
   data: string;
-  tema: Tema | null;
+  categoria: Categoria | null;
   usuario: Usuario | null;
 }
